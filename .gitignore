@@ -6,5 +6,9 @@ Thumbs.db
 !.env.example
 node_modules/
 
+# Source / build tools (ficam só na sua máquina)
+index-source.html
+obfuscate.js
+
 # Local Netlify folder
 .netlify
